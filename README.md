@@ -14,7 +14,7 @@
 
 
 Connect with me:
-alina-stoica #8108
+[alina-stoica](https://www.linkedin.com/in/alina-stoica-/) [ Alina.S#8108](https://discord.com/channels/977120275160252426/995948200013856788)
 
 Languages and Tools:
-heroku java mssql postman spring
+[heroku](https://www.heroku.com/?) [java](https://www.java.com/en/)[ mssql](https://www.microsoft.com/en-us/sql-server) [postman](https://www.postman.com/) [spring](https://spring.io/)
