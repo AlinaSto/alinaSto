@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, I'm Alina
 
-<!--
-**AlinaSto/alinaSto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**A passionate backend developer.
+
+
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Java, Spring Boot, MySQL
+- 👯 I’m looking to collaborate on backend development
+- 💬 Ask me about Spring Boot
+- ⚡ All of my projects are available at https://github.com/AlinaSto?tab=repositories
+- 📫 How to reach me: alinaaureliastoica@gmail.com
+
+
+Connect with me:
+alina-stoica #8108
+
+Languages and Tools:
+heroku java mssql postman spring
